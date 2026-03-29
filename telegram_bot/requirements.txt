@@ -1,0 +1,5 @@
+aiogram>=3.0
+openai
+httpx
+python-dotenv
+aiohttp-socks
