@@ -1,5 +1,11 @@
 # Product MCP Bot
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
+![aiogram](https://img.shields.io/badge/aiogram-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
 ## Описание
 
 **Product MCP Bot** — учебный MCP-проект: магазин товаров с Telegram-ботом на базе LLM.
